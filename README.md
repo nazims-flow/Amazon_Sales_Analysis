@@ -17,9 +17,6 @@
  ## Analysis Questions Resolved
  During the analysis, the following key questions were addressed using SQL queries and data
  analysis techniques:
- ## Analysis Questions Resolved
- During the analysis, the following key questions were addressed using SQL queries and data
- analysis techniques:
 1. Find out the top 5 customers who made the highest profits.
  ![Top 5 Customers Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q1.jpeg)
  2. Find out the average quantity ordered per category.
