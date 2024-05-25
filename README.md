@@ -23,24 +23,24 @@
 1. Find out the top 5 customers who made the highest profits.
  ![Top 5 Customers Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q1.jpeg)
  2. Find out the average quantity ordered per category.
- ![Average Quantity Query](insert_image_link_here)
+ ![Average Quantity Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q2.jpeg)
  3. Identify the top 5 products that have generated the highest revenue.
- ![Top 5 Revenue Products Query](insert_image_link_here)
+ ![Top 5 Revenue Products Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q3.jpeg)
  4. Determine the top 5 products whose revenue has decreased compared to the previous year.
- ![Decreased Revenue Products Query](insert_image_link_here)
+ ![Decreased Revenue Products Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q4.jpeg)
  5. Identify the highest profitable sub-category.
- ![Highest Profitable Sub-category Query](insert_image_link_here)
+ ![Highest Profitable Sub-category Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q5.jpeg)
  6. Find out the states with the highest total orders.
- ![States with Highest Orders Query](insert_image_link_here)
+ ![States with Highest Orders Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q6.jpeg)
  7. Determine the month with the highest number of orders.
- ![Month with Highest Orders Query](insert_image_link_here)
+ ![Month with Highest Orders Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q7.jpeg)
  8. Calculate the profit margin percentage for each sale (Profit divided by Sales).
- ![Profit Margin Calculation Query](insert_image_link_here)
+ ![Profit Margin Calculation Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q8.jpeg)
 9. Calculate the percentage contribution of each sub-category.
- ![Sub-category Contribution Query](insert_image_link_here)
+ ![Sub-category Contribution Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/q9.jpeg)
  10. Identify the top 2 categories that have received maximum returns and their return
  percentage.
- ![Top 2 Returning Categories Query](insert_image_link_here)
+ ![Top 2 Returning Categories Query](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/Query_images/10.jpeg)
  ## Entity-Relationship Diagram (ERD)
  ![ERD Image](https://github.com/nazims-flow/Amazon_Sales_Analysis/blob/main/ERD_Amazon.png)
  An Entity-Relationship Diagram (ERD) has been created to visualize the relationships between
